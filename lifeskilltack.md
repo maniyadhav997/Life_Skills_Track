@@ -1,4 +1,4 @@
-#  Feynman Technique
+#    Learning Process
 
 ## Question 1:
 ###### What is the Feynman Technique?

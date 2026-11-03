@@ -15,19 +15,19 @@ The most interesting idea for me was how our brain works in two different modes:
 
 ##### Two fundamentally different modes of thinking to facilitate learning:
 
-**Focused Mode:** It is when we concentrate fully on a task or problem and use what we already know to solve it.
+- **Focused Mode:** It is when we concentrate fully on a task or problem and use what we already know to solve it.
 
-**Diffuse Mode:** It is when we relax our mind and take a break. During this time, our brain makes new connections and helps us understand difficult concepts or find new ideas.
+- **Diffuse Mode:** It is when we relax our mind and take a break. During this time, our brain makes new connections and helps us understand difficult concepts or find new ideas.
 
 
 ## Question 4:
 
 ###### According to the video, what are the steps to take when approaching a new topic? Only mention the points.
 
-**Deconstruct the skill:** Break the skill down into smaller, manageable parts and identify the most important sub-skills to practice first.
-**Learn enough to self-correct:** Gather just enough resources (3-5) to identify mistakes while practicing, rather than using research as a form of procrastination.
-**Remove barriers to practice:** Use willpower to eliminate distractions, such as the internet or television, to ensure you actually sit down to practice.
-**Practice for at least 20 hours:** Pre-commit to 20 hours of focused practice to overcome the initial "frustration barrier" and feel competent.
+- **Deconstruct the skill:** Break the skill down into smaller, manageable parts and identify the most important sub-skills to practice first.
+- **Learn enough to self-correct:** Gather just enough resources (3-5) to identify mistakes while practicing, rather than using research as a form of procrastination.
+- **Remove barriers to practice:** Use willpower to eliminate distractions, such as the internet or television, to ensure you actually sit down to practice.
+- **Practice for at least 20 hours:** Pre-commit to 20 hours of focused practice to overcome the initial "frustration barrier" and feel competent.
 
 ## Question 5:
 

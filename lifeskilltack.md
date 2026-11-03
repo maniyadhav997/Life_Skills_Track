@@ -8,18 +8,16 @@ The Feynman Technique is a learning method where you explain a concept in simple
 ## Question 2:
 ###### In this video, what was the most interesting story or idea for you?
 
-One of the most fascinating ideas in the video is the concept of shifting between two mental modes to overcome learning blocks, specifically using the diffuse mode.
-
-**The Pinball Analogy:** Dr. Oakley explains that the brain operates in a focused mode for familiar, sequential patterns, but when you hit a wall, you need to switch to the diffuse mode—a relaxed state where thoughts can wander widely and make creative connections.
+The most interesting idea for me was how our brain works in two different modes: focused mode and diffuse mode. When we cannot understand something, taking a short break or doing something relaxing can help our brain connect ideas and find solutions. I found this interesting because sometimes taking a break can help us learn better.
 
 ## Question 3:
 ###### What are active and diffused modes of thinking?
 
 ##### Two fundamentally different modes of thinking to facilitate learning:
 
-**Focused Mode:** This is the state of concentrated attention. It is used when you are working on something familiar, applying logical, sequential patterns, or processing information you have learned before. Think of this as the "tight" setting in a pinball machine, where the ball travels along established pathways.
+**Focused Mode:** It is when we concentrate fully on a task or problem and use what we already know to solve it.
 
-**Diffuse Mode:** This is a relaxed state of resting neural connections. It allows your brain to wander and explore, making new, creative connections between distant ideas. This mode is essential when you are trying to understand a concept that is entirely new or when you get stuck while focusing; by stepping away from a problem, you allow this mode to work on it in the background.
+**Diffuse Mode:** It is when we relax our mind and take a break. During this time, our brain makes new connections and helps us understand difficult concepts or find new ideas.
 
 
 ## Question 4:
